@@ -1,0 +1,23 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "关于webSocket的实践",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZHANGzan950113/webSocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZHANGzan950113/webSocket/issues"
+  },
+  "homepage": "https://github.com/ZHANGzan950113/webSocket#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^2.3.0"
+  }
+}
